@@ -1,5 +1,7 @@
 ---
 title: "Recipes"
+author: "Luca"
+theme: "lux"
 format: html
 editor: visual
 ---
@@ -8,7 +10,7 @@ Hello what up? These are my recipes! I hope you love them, because I love you \<
 
 ## Biscuit Himbeertorte mit Baiser
 
-![Serviervorschlag](https://www.muddiskochen.de/app/uploads/2014/07/biskuit-himbeertorte-mit-baiser.jpg){fig-align="right" width="325"}
+![Serviervorschlag](https://www.muddiskochen.de/app/uploads/2014/07/biskuit-himbeertorte-mit-baiser.jpg){fig-align="left" width="331" height="229"}
 
 -   Zutatenliste für 8 Portionen
 
@@ -39,3 +41,5 @@ Hello what up? These are my recipes! I hope you love them, because I love you \<
     -   Dann den Boden kalt werden lassen und in der Mitte aufschneiden.
     -   Auf die untere Hälfte die gefrorenen Himbeeren geben, darauf den Zucker streuen und dann die Sahne aufstreichen. 600 g TK-Himbeeren, 41 g Zucker, 0,5 l Schlagsahne
     -   Die obere Bodenhälfte auf die Füllung legen und einige Stunden stehen lassen (nicht im Kühlschrank). Oder aber man lässt die Himbeeren vorher auftauen, wenn nicht genug Zeit ist.
+
+\<3
